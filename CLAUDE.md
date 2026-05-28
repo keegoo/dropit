@@ -9,7 +9,7 @@ A Google TV app that runs a local web server, allowing users on the same network
 - **Platform**: Google TV / Android TV
 - **Language**: Kotlin
 - **Min SDK**: API 26
-- **Target SDK**: API 34
+- **Target SDK**: API 36 (Android 16)
 
 ## How It Works
 
